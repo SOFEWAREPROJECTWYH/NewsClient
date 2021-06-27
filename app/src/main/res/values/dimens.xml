@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--left_menu-->
+    <dimen name="left_menu_text_size">22sp</dimen>
+    <dimen name="left_menu_text_padding">15dp</dimen>
+    <dimen name="left_menu_text_drawable_padding">5dp</dimen>
+    <dimen name="left_menu_margin_top">60dp</dimen>
+
+    <!--common title-->
+    <dimen name="common_title_left_margin">15dp</dimen>
+
+    <dimen name="news_menu_tab_detail_arrow_padding">10dp</dimen>
+
+    <dimen name="news_tab_list_items_icon_width">100dp</dimen>
+    <dimen name="news_tab_list_items_icon_height">65dp</dimen>
+
+    <dimen name="news_tab_list_items_text_date_size">16sp</dimen>
+    <dimen name="news_tab_list_items_text_title_size">18sp</dimen>
+    <dimen name="news_tab_top_news_height">180dp</dimen>
+
+
+    <dimen name="news_tab_top_news_pageindicator_radius">3dp</dimen>
+
+    <dimen name="photos_detail_listview_item_margin">10dp</dimen>
+</resources>

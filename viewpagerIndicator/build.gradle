@@ -1,0 +1,23 @@
+apply plugin: 'com.android.library'
+dependencies {
+    //noinspection GradleCompatible
+    implementation 'com.android.support:support-v4:26.0.0'
+}
+android {
+    compileSdkVersion 26
+    buildToolsVersion "29.0.2"
+
+    defaultConfig {
+        minSdkVersion 18
+        targetSdkVersion 26
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+
